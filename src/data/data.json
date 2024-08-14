@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Building Your Vision, One Brick at a Time",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Look Construction is your trusted partner in building excellence. We specialize in delivering top-notch residential and commercial projects with unmatched craftsmanship and attention to detail. From concept to completion, we bring your vision to life, ensuring quality and reliability every step of the way.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expert Craftsmanship",
+      "On-Time Delivery",
+      "Transparent Pricing",
+      "Customer-Centric Approach"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Comprehensive Services",
+      "Strong Reputation",
+      "Innovative Solutions",
+      "Safety First"
     ]
   },
   "Gallery": [
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Mikoyan 13-42, Yerevan, Armenia ",
+    "phone": "+37477767713",
+    "email": "lilith.pdh@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
